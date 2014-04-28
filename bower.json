@@ -1,0 +1,21 @@
+{
+	"name": "jquery-timing",
+	"version": "0.0.1",
+	"main":"https://github.com/web-evolutions/jquery-timing.git",
+	"ignore":[
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "Gruntfile.js",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+	],
+	"dependencies": {
+		"jquery": "~1.10.2"
+	},
+	"devDependencies": {	
+	}
+}
